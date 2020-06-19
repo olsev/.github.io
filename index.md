@@ -8,3 +8,6 @@ This is a plain text description of my generic favourite character. He/she does 
 * has awesome sleep
 * owns awesome pets (ALL of them)
 * give awesome presents
+
+As Just_Awesome said:
+> I’m awesome!

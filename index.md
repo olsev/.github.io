@@ -11,3 +11,5 @@ This is a plain text description of my generic favourite character. He/she does 
 
 As Just_Awesome said:
 > I’m awesome!
+
+<img src="awesome_pic.jpg"/>
